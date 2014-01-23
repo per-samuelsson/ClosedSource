@@ -9,6 +9,7 @@ namespace Closed {
         static void Main(string[] args) {
             Console.WriteLine("Just some closed source commit...");
             Console.WriteLine("Commit in both open and closed source - shared.");
+            Console.WriteLine("Committing in closed source, in a branch (somebranch)");
         }
     }
 }
