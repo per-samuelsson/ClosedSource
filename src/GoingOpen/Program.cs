@@ -9,6 +9,7 @@ namespace GoingOpen {
         static void Main(string[] args) {
             Console.WriteLine("Just some to-be-open-source commit...");
             Console.WriteLine("Commit in both open and closed source - shared.");
+            Console.WriteLine("Committing in open source, in a branch (somebranch)");
         }
     }
 }
