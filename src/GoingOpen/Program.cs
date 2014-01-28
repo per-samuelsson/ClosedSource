@@ -12,6 +12,7 @@ namespace GoingOpen {
 			Console.WriteLine("A commit in the develop branch.");
 			Console.WriteLine("A commit in a BRANCH of the develop branch.");
 			Console.WriteLine("Another commit in the devbranch branch.");
+			Console.WriteLine("A LATE commit in abandonned ClosedSource devbranch - try bring it in.");
         }
     }
 }
